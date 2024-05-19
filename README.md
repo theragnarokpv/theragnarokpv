@@ -1,5 +1,3 @@
-Mi nombre es Victor Andres Bolaños Castillo 
-
 ![](https://media.licdn.com/dms/image/D4E16AQGoAIRLQpDw-w/profile-displaybackgroundimage-shrink_350_1400/0/1715230596561?e=1721865600&v=beta&t=JplrOXbBe3KjUvkH0T97eo2GzmHwMovVGm9QZBd8284)
 
 
