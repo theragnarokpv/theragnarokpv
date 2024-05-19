@@ -3,14 +3,13 @@ Mi nombre es Victor Andres Bolaños Castillo
 ![](https://media.licdn.com/dms/image/D4E16AQGoAIRLQpDw-w/profile-displaybackgroundimage-shrink_350_1400/0/1715230596561?e=1721865600&v=beta&t=JplrOXbBe3KjUvkH0T97eo2GzmHwMovVGm9QZBd8284)
 
 
-#Quien soy:
-
+**Conoce mas:**
 
 Profesional en Programación y futuro Ingeniero en Sistemas de computación, con experiencia en la creación de diferentes sistemas enfocado a mejorar la eficiencia de gestión de información e interacción con usuarios. 
 Buscando nuevas oportunidades laborales en dicha área, ya que me he capacitado en diferentes cursos sobre lenguajes de programación, desarrollo de web y gestión de bases de datos. 
 Gran capacidad de análisis para la toma de decisiones y visión estratégica. Fuertes destrezas en colaboración con equipos e innovación. Me considero una persona analítica y proactiva, con el deseo de crecer personal y profesionalmente.
 
-Skills:
+**Skills:**
 
 Database:
 
